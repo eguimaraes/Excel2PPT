@@ -1,0 +1,8 @@
+E:\pptAutomacao\Excel2PPT\Excel2PPT\bin\Debug\pmp.xlsx
+E:\pptAutomacao\Excel2PPT\Excel2PPT\bin\Debug\Excel2PPT.exe.config
+E:\pptAutomacao\Excel2PPT\Excel2PPT\bin\Debug\Excel2PPT.exe
+E:\pptAutomacao\Excel2PPT\Excel2PPT\bin\Debug\Excel2PPT.pdb
+E:\pptAutomacao\Excel2PPT\Excel2PPT\obj\Debug\Excel2PPT.csproj.AssemblyReference.cache
+E:\pptAutomacao\Excel2PPT\Excel2PPT\obj\Debug\Excel2PPT.csproj.CoreCompileInputs.cache
+E:\pptAutomacao\Excel2PPT\Excel2PPT\obj\Debug\Excel2PPT.exe
+E:\pptAutomacao\Excel2PPT\Excel2PPT\obj\Debug\Excel2PPT.pdb
